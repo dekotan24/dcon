@@ -6,3 +6,6 @@ Discord Connector for GLauncher
 
 ## Used by
 [GLauncher](https://github.com/dekotan24/glc_cs)
+
+## LISENCE
+This project contains code licensed under the Apache License, Version 2.0.
